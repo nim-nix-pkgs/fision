@@ -552,7 +552,7 @@
   inputs."numericalnim".owner = "nim-nix-pkgs";
   inputs."numericalnim".ref   = "master";
   inputs."numericalnim".repo  = "numericalnim";
-  inputs."numericalnim".dir   = "v0_7_1";
+  inputs."numericalnim".dir   = "v0_8_0";
   inputs."numericalnim".type  = "github";
   inputs."numericalnim".inputs.nixpkgs.follows = "nixpkgs";
   inputs."numericalnim".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
