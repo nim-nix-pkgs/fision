@@ -416,7 +416,7 @@
   inputs."nigui".owner = "nim-nix-pkgs";
   inputs."nigui".ref   = "master";
   inputs."nigui".repo  = "nigui";
-  inputs."nigui".dir   = "v0_2_5";
+  inputs."nigui".dir   = "v0_2_6";
   inputs."nigui".type  = "github";
   inputs."nigui".inputs.nixpkgs.follows = "nixpkgs";
   inputs."nigui".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
@@ -616,7 +616,7 @@
   inputs."polypbren".owner = "nim-nix-pkgs";
   inputs."polypbren".ref   = "master";
   inputs."polypbren".repo  = "polypbren";
-  inputs."polypbren".dir   = "v0_4_3";
+  inputs."polypbren".dir   = "v0_5_0";
   inputs."polypbren".type  = "github";
   inputs."polypbren".inputs.nixpkgs.follows = "nixpkgs";
   inputs."polypbren".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
@@ -896,7 +896,7 @@
   inputs."zippy".owner = "nim-nix-pkgs";
   inputs."zippy".ref   = "master";
   inputs."zippy".repo  = "zippy";
-  inputs."zippy".dir   = "0_9_7";
+  inputs."zippy".dir   = "0_9_8";
   inputs."zippy".type  = "github";
   inputs."zippy".inputs.nixpkgs.follows = "nixpkgs";
   inputs."zippy".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
