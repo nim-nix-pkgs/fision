@@ -152,7 +152,7 @@
   inputs."cligen".owner = "nim-nix-pkgs";
   inputs."cligen".ref   = "master";
   inputs."cligen".repo  = "cligen";
-  inputs."cligen".dir   = "v1_5_31";
+  inputs."cligen".dir   = "v1_5_32";
   inputs."cligen".type  = "github";
   inputs."cligen".inputs.nixpkgs.follows = "nixpkgs";
   inputs."cligen".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
@@ -592,7 +592,7 @@
   inputs."numericalnim".owner = "nim-nix-pkgs";
   inputs."numericalnim".ref   = "master";
   inputs."numericalnim".repo  = "numericalnim";
-  inputs."numericalnim".dir   = "v0_8_2";
+  inputs."numericalnim".dir   = "v0_8_3";
   inputs."numericalnim".type  = "github";
   inputs."numericalnim".inputs.nixpkgs.follows = "nixpkgs";
   inputs."numericalnim".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
